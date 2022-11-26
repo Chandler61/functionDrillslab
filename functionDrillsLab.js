@@ -408,4 +408,4 @@ let bathroomScope = ["rubberDuck", "duck"]
 let bathtubScope = ["duck", "rubberDuck", "sailorDuck"]
 
 //This array should contain the variable names (as strings) accessible in the pond function.
-let pondScope = ["realDuck", "Duck"]
+let pondScope = ["realDuck", "Duck "]
